@@ -131,6 +131,21 @@ margin-bottom: 50px;
     box-shadow: 0 0 15px  rgb(140, 39, 241);
     transform: scale(1.1);
 }
+.fp li video{
+    box-shadow: 0 0 5px  rgb(140, 39, 241);
+    padding: 0;
+    max-width: 90%;
+    margin: 0px;
+    margin-left: 2.5%;
+    transition: 3s;
+}
+
+.fp li video:hover{
+
+    box-shadow: 0 0 15px  rgb(140, 39, 241);
+    transform: scale(1.1);
+}
+
 
 ::-webkit-scrollbar{
     display: none;
