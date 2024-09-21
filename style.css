@@ -135,7 +135,7 @@ margin-bottom: 50px;
 ::-webkit-scrollbar{
     display: none;
 }
-.alr:{
+.alr{
     box-shadow: 0px 0px 15px red;
     color:red;
 }
